@@ -1,0 +1,20 @@
+name,file,date_col,value_col,units,date_format,source_note
+gsec_10y,india_10y.csv,Date,Price,percent,,Investing.com 'India 10-Year Bond Yield Historical Data' (or FBIL/CCIL)
+gsec_5y,india_5y.csv,Date,Price,percent,,Investing.com India 5-Year
+gsec_2y,india_2y.csv,Date,Price,percent,,Investing.com India 2-Year
+gsec_1y,india_1y.csv,Date,Price,percent,,Investing.com India 1-Year
+tbill_91d,fbil_tbill_91d.csv,Date,Yield,percent,,FBIL T-Bill benchmark 91 day
+tbill_182d,fbil_tbill_182d.csv,Date,Yield,percent,,FBIL T-Bill benchmark 182 day
+tbill_364d,fbil_tbill_364d.csv,Date,Yield,percent,,FBIL T-Bill benchmark 364 day
+ois_1m,ois_1m.csv,Date,PX_LAST,percent,,Bloomberg/Refinitiv INR MIBOR OIS 1M (optional but strongly recommended)
+ois_3m,ois_3m.csv,Date,PX_LAST,percent,,MIBOR OIS 3M
+ois_6m,ois_6m.csv,Date,PX_LAST,percent,,MIBOR OIS 6M
+ois_1y,ois_1y.csv,Date,PX_LAST,percent,,MIBOR OIS 1Y
+ois_2y,ois_2y.csv,Date,PX_LAST,percent,,MIBOR OIS 2Y
+ois_5y,ois_5y.csv,Date,PX_LAST,percent,,MIBOR OIS 5Y
+nifty,nifty50.csv,Date,Close,level,,NSE Indices historical data (Nifty 50)
+bank_nifty,niftybank.csv,Date,Close,level,,NSE Indices (Nifty Bank) - optional
+usdinr,fbil_usdinr.csv,Date,USD,level,,FBIL USD/INR reference rate (published ~13:30 IST)
+us10y,DGS10.csv,observation_date,DGS10,percent,,FRED DGS10
+vix,VIXCLS.csv,observation_date,VIXCLS,level,,FRED VIXCLS
+brent,DCOILBRENTEU.csv,observation_date,DCOILBRENTEU,level,,FRED DCOILBRENTEU

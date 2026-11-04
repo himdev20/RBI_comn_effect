@@ -1,0 +1,61 @@
+meeting_date,decision_bp,repo_after,stance,unscheduled,announce_time,verified,notes
+2016-10-04,-25,6.25,,0,,0,DRAFT from memory - verify every row against the RBI resolution
+2016-12-07,0,6.25,,0,,0,
+2017-02-08,0,6.25,neutral,0,,0,stance changed to neutral
+2017-04-06,0,6.25,neutral,0,,0,reverse repo raised (corridor narrowed)
+2017-06-07,0,6.25,neutral,0,,0,
+2017-08-02,-25,6.00,neutral,0,,0,
+2017-10-04,0,6.00,neutral,0,,0,
+2017-12-06,0,6.00,neutral,0,,0,
+2018-02-07,0,6.00,neutral,0,,0,
+2018-04-05,0,6.00,neutral,0,,0,
+2018-06-06,25,6.25,neutral,0,,0,
+2018-08-01,25,6.50,neutral,0,,0,
+2018-10-05,0,6.50,calibrated tightening,0,,0,
+2018-12-05,0,6.50,calibrated tightening,0,,0,
+2019-02-07,-25,6.25,neutral,0,,0,
+2019-04-04,-25,6.00,neutral,0,,0,
+2019-06-06,-25,5.75,accommodative,0,,0,
+2019-08-07,-35,5.40,accommodative,0,,0,
+2019-10-04,-25,5.15,accommodative,0,,0,
+2019-12-05,0,5.15,accommodative,0,,0,
+2020-02-06,0,5.15,accommodative,0,,0,
+2020-03-27,-75,4.40,accommodative,1,,0,off-cycle (advanced) meeting
+2020-05-22,-40,4.00,accommodative,1,,0,off-cycle meeting
+2020-08-06,0,4.00,accommodative,0,,0,
+2020-10-09,0,4.00,accommodative,0,,0,new external members; time-based guidance
+2020-12-04,0,4.00,accommodative,0,,0,
+2021-02-05,0,4.00,accommodative,0,,0,
+2021-04-07,0,4.00,accommodative,0,,0,
+2021-06-04,0,4.00,accommodative,0,,0,
+2021-08-06,0,4.00,accommodative,0,,0,
+2021-10-08,0,4.00,accommodative,0,,0,
+2021-12-08,0,4.00,accommodative,0,,0,
+2022-02-10,0,4.00,accommodative,0,,0,
+2022-04-08,0,4.00,withdrawal of accommodation,0,,0,SDF introduced; check stance wording
+2022-05-04,40,4.40,withdrawal of accommodation,1,,0,off-cycle meeting
+2022-06-08,50,4.90,withdrawal of accommodation,0,,0,
+2022-08-05,50,5.40,withdrawal of accommodation,0,,0,
+2022-09-30,50,5.90,withdrawal of accommodation,0,,0,
+2022-12-07,35,6.25,withdrawal of accommodation,0,,0,
+2023-02-08,25,6.50,withdrawal of accommodation,0,,0,
+2023-04-06,0,6.50,withdrawal of accommodation,0,,0,
+2023-06-08,0,6.50,withdrawal of accommodation,0,,0,
+2023-08-10,0,6.50,withdrawal of accommodation,0,,0,
+2023-10-06,0,6.50,withdrawal of accommodation,0,,0,
+2023-12-08,0,6.50,withdrawal of accommodation,0,,0,
+2024-02-08,0,6.50,withdrawal of accommodation,0,,0,
+2024-04-05,0,6.50,withdrawal of accommodation,0,,0,
+2024-06-07,0,6.50,withdrawal of accommodation,0,,0,
+2024-08-08,0,6.50,withdrawal of accommodation,0,,0,
+2024-10-09,0,6.50,neutral,0,,0,new external members
+2024-12-06,0,6.50,neutral,0,,0,CRR cut
+2025-02-07,-25,6.25,neutral,0,,0,Governor Malhotra's first meeting
+2025-04-09,-25,6.00,accommodative,0,,0,
+2025-06-06,-50,5.50,neutral,0,,0,CRR cut 100bp in tranches
+2025-08-06,0,5.50,neutral,0,,0,
+2025-10-01,0,5.50,neutral,0,,0,
+2025-12-05,-25,5.25,neutral,0,,0,
+2026-02-06,0,5.25,neutral,0,,0,
+2026-08-05,0,5.25,neutral,0,,0,ADD the April and June 2026 meetings above this row
+2026-10-07,25,5.50,calibrated tightening,0,,0,check stance wording and vote split

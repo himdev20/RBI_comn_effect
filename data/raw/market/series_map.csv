@@ -1,0 +1,25 @@
+name,file,date_col,value_col,units,date_format,source_note
+gsec_10y,India 10-Year*.csv,Date,Price,percent,%d-%m-%Y,Investing.com India 10-Year Bond Yield (daily)
+gsec_5y,India 5-Year*.csv,Date,Price,percent,%d-%m-%Y,Investing.com India 5-Year
+gsec_2y,India 2-Year*.csv,Date,Price,percent,%d-%m-%Y,Investing.com India 2-Year
+gsec_1y,India 1-Year*.csv,Date,Price,percent,%d-%m-%Y,Investing.com India 1-Year
+tbill_91d,fbil_tbill_91d.csv,Date,Rate,percent,,FBIL T-bill 3M (Aug 2017-)
+tbill_91d,India 3-Month*.csv,Date,Price,percent,%d-%m-%Y,Investing.com India 3-Month: fills 2016-Jul 2017
+tbill_182d,fbil_tbill_182d.csv,Date,Rate,percent,,FBIL T-bill 6M (Aug 2017-)
+tbill_182d,India 6-Month*.csv,Date,Price,percent,%d-%m-%Y,Investing.com India 6-Month: fills 2016-Jul 2017 (optional)
+tbill_364d,fbil_tbill_364d.csv,Date,Rate,percent,,FBIL T-bill 12M (Aug 2017-)
+tbill_364d,India 1-Year*.csv,Date,Price,percent,%d-%m-%Y,Investing.com India 1-Year: fills 2016-Jul 2017
+ois_1m,fbil_ois_1m.csv,Date,Rate,percent,,FBIL MIBOR-OIS (Apr 2018-)
+ois_3m,fbil_ois_3m.csv,Date,Rate,percent,,FBIL MIBOR-OIS
+ois_6m,fbil_ois_6m.csv,Date,Rate,percent,,FBIL MIBOR-OIS
+ois_1y,fbil_ois_1y.csv,Date,Rate,percent,,FBIL MIBOR-OIS
+ois_2y,fbil_ois_2y.csv,Date,Rate,percent,,FBIL MIBOR-OIS
+ois_5y,fbil_ois_5y.csv,Date,Rate,percent,,FBIL MIBOR-OIS
+nifty,NIFTY 50*.csv,Date,Close;Close Price,level,,niftyindices.com historical (one file per year is fine)
+bank_nifty,NIFTY BANK*.csv,Date,Close;Close Price,level,,niftyindices.com (optional)
+india_vix,*india_vix*.csv,Date,Close,level,,nseindia.com India VIX historical (optional)
+usdinr,fbil_usdinr.csv,Date,Rate,level,,FBIL reference rate INR/USD (Jul 2018-; published 13:30 IST)
+us10y,DGS10.csv,observation_date,DGS10,percent,,FRED
+vix,VIXCLS.csv,observation_date,VIXCLS,level,,FRED (CBOE VIX)
+brent,DCOILBRENTEU.csv,observation_date,DCOILBRENTEU,level,,FRED
+nifty,Nifty 50 Historical Data*.csv,Date,Price,level,%d-%m-%Y,Investing.com Nifty 50 (alternative to niftyindices)

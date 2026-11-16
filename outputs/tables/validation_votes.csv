@@ -1,0 +1,13 @@
+check,n,value,kappa,note
+LLM preferred action = actual vote direction,369,1.0,1.0,
+  ... among 'No' voters only,23,1.0,,
+AUC: reservation score separates explicit dissenters,372,0.9774096385542169,,
+explicit dissenters read as reservation>=1,40,1.0,,
+lean sign = dissent direction (dissenters with nonzero lean),40,0.925,,
+yes-voters with reservations (hidden dissent rate),332,0.15060240963855423,,
+yes-voters with nonzero lean,332,0.16265060240963855,,
+formal dissent rate (all member-meetings),372,0.10752688172043011,,
+mean hawk_llm at cuts / holds / hikes,372,,,-1.55 / 0.08 / 1.20
+mean hawk_dict at cuts / holds / hikes,372,,,-1.17 / -0.30 / 0.63
+"corr(hawk_llm, hawk_dict)",372,0.4792775869940477,,
+"corr(hawk_llm, VADER sentiment)",372,-0.044400616961485506,,

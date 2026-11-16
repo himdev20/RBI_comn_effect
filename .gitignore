@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+pipeline.log
+.env
+# third-party / licensed market data: not redistributed
+data_downloads/
+data/raw/market/downloads/
+data/raw/market/yields.csv
+data/raw/market/intraday.csv
+data/processed/daily_changes.csv
+# raw documents and full-text extracts: re-downloaded by download_data.py
+data/raw/minutes_html/
+data/processed/member_statements.csv
+data/processed/meeting_texts.csv
+data/processed/member_level.csv
+# hand-coding sheet (contains statement text)
+outputs/tables/human_sample.csv

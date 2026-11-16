@@ -1,0 +1,2 @@
+n,corr_sup_llm,corr_sup_dict,corr_sup_prefdir_oos,corr_llm_prefdir,corr_dict_prefdir,within_corr_sup_llm,within_corr_dict_llm,dissent_dir_hit_sup,dissent_dir_hit_llm,dissent_dir_hit_dict
+372,0.32427647522955566,0.32443665175082737,0.28677519974546806,0.7815861726106419,0.44926610413598256,0.35595212792737596,0.06642350654597172,0.8,0.9,0.6

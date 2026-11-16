@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Whose Words Move Rates? Attributed Member Statements in RBI Minutes and the Indian Yield Curve"
+authors:
+  - family-names: "<SURNAME>"
+    given-names: "<GIVEN NAME>"
+version: 0.1.0
+date-released: 2026-11-10
+license: MIT
